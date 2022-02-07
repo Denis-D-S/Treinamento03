@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	    //código da branch second
+        //juntei a second com a third. Conflito resolvido
     }
 }

@@ -1,5 +1,5 @@
 package com.company;
 
 public class Teste3 {
-    //código da branch second
+    //juntei a second com a third. Conflito resolvido
 }
